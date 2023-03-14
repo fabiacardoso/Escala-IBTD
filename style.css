@@ -109,9 +109,9 @@ main.table {
     visibility: visible;
 }
 
-table {
+/* table {
     width: 100%;
-}
+} */
 
 td img {
     width: 26px;
